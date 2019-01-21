@@ -1,2 +1,2 @@
-# python
-Programs that are written in Python (version 3.4+).
+See Assembly repository for readme template.\
+Fifth, seventh, eighth, and tenth semesters.
